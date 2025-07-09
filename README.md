@@ -86,7 +86,7 @@ O protótipo foi pensado para simular a experiência completa do usuário com as
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **MIT License**  
+Este projeto está licenciado sob a **Apache License 2.0**
 Uso educacional no contexto da disciplina **PROJETO – TI e Sociedade II (Feevale)**
 
 ---
