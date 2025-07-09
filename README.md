@@ -56,9 +56,6 @@ O protótipo foi pensado para simular a experiência completa do usuário com as
     <td align="center"><strong>Novo Item Vender</strong><br><img src="imagens/Tela_6.png" alt="Novo Item Vender" width="400"></td>
     <td align="center"><strong>Novo Item Consertar</strong><br><img src="imagens/Tela_7.png" alt="Novo Item Consertar" width="400"></td>
     <td align="center"><strong>Novo Item Reciclar</strong><br><img src="imagens/Tela_8.png" alt="Novo Item Reciclar" width="400"></td>
-    <td align="center"><strong>Marketplace Reciclar</strong><br><img src="imagens/Tela_9.png" alt="Marketplace Reciclar" width="400"></td>
-    <td align="center"><strong>Marketplace Consertar</strong><br><img src="imagens/Tela_10.png" alt="Marketplace Consertar" width="400"></td>
-    <td align="center"><strong>Marketplace Vender</strong><br><img src="imagens/Tela_11.png" alt="Marketplace Vender" width="400"></td>
   </tr>
 </table>
 
@@ -68,7 +65,9 @@ O protótipo foi pensado para simular a experiência completa do usuário com as
 - **Vender:** para outros usuários.
 <table>
   <tr>
-    <td align="center"><strong>Marketplace</strong><br><img src="imagens/Tela_12.png" alt="Marketplace" width="400"></td>
+    <td align="center"><strong>Marketplace Reciclar</strong><br><img src="imagens/Tela_9.png" alt="Marketplace Reciclar" width="400"></td>
+    <td align="center"><strong>Marketplace Consertar</strong><br><img src="imagens/Tela_10.png" alt="Marketplace Consertar" width="400"></td>
+    <td align="center"><strong>Marketplace Vender</strong><br><img src="imagens/Tela_11.png" alt="Marketplace Vender" width="400"></td>
   </tr>
 </table>
 
