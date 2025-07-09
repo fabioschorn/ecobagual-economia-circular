@@ -20,6 +20,12 @@ O protótipo foi pensado para simular a experiência completa do usuário com as
 
 ### 1. 🔐 Tela de Login
 - Acesso com e-mail e senha para usuários cadastrados.
+<table>
+  <tr>
+    <td align="center"><strong>Tela de Login</strong><br><img src="prototipo/imagens/Tela_1.png" alt="Login" width="200"/></td>
+  </tr>
+</table>
+
 - Link para novo cadastro.
 
 ### 2. 📝 Tela de Cadastro
