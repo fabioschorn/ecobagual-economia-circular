@@ -2,7 +2,7 @@
 
 ![ODS](https://img.shields.io/badge/ODS-11%2C12%2C13%2C9-green)
 ![Status](https://img.shields.io/badge/Status-Protótipo-yellow)
-![Licença](https://img.shields.io/badge/Licença-MIT-blue)
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-Apache%202.0-red)
 
 > Protótipo interativo desenvolvido como proposta de inovação social e tecnológica no contexto da disciplina **TI e Sociedade II – Feevale (2025/2)**.
 
@@ -86,8 +86,7 @@ O protótipo foi pensado para simular a experiência completa do usuário com as
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a **Apache License 2.0**
-Uso educacional no contexto da disciplina **PROJETO – TI e Sociedade II (Feevale)**
+Este projeto está licenciado sob a **Apache License 2.0**, desenvolvido no contexto acadêmico da disciplina **PROJETO – TI e Sociedade II da Universidade Feevale**, com potencial de evolução para aplicações comerciais e de impacto social.
 
 ---
 
@@ -95,5 +94,6 @@ Uso educacional no contexto da disciplina **PROJETO – TI e Sociedade II (Feeva
 
 **Fábio Schorn**  
 *Desenvolvedor do protótipo e aluno do curso de TI*  
-📧 fabio.schorn@expertsonline.com.br  
+📧 fabio.schorn@expertsonline.com.br
+🔗 [LinkedIn](https://www.linkedin.com/in/fabioschorn/)
 🌐 [github.com/fabioschorn](https://github.com/fabioschorn)
