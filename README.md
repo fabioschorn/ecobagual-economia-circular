@@ -93,8 +93,9 @@ O protótipo foi pensado para simular a experiência completa do usuário com as
 ### 8. 📚 Tela de Conteúdo Educativo
 - Artigos e guias sobre:
   - Lixo eletrônico
-  - Economia circular
   - Segurança de dados e descarte consciente
+  - DIY (Faça Você Mesmo)
+  - Economia circular
 <table>
   <tr>
     <td align="center"><strong>Tela de Conteúdo Educativo</strong><br><img src="imagens/Tela_16.png" alt="Conteúdo Educativo" width="400"></td>
