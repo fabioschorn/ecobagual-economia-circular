@@ -93,6 +93,7 @@ Este projeto está licenciado sob a **Apache License 2.0**, desenvolvido no cont
 ## ✉️ Contato
 
 **Fábio Schorn**  
-*Desenvolvedor do Protótipo e Aluno do Curso ANÁLISE E DESENVOLVIMENTO DE SISTEMAS - TECNOLÓGICO*
+*Desenvolvedor do Protótipo e Aluno do Curso ANÁLISE e DESENVOLVIMENTO DE SISTEMAS - TECNOLÓGICO*
+
 🔗 [LinkedIn](https://www.linkedin.com/in/fabioschorn/)
 🌐 [github.com/fabioschorn](https://github.com/fabioschorn)
