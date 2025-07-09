@@ -22,7 +22,7 @@ O protótipo foi pensado para simular a experiência completa do usuário com as
 - Acesso com e-mail e senha para usuários cadastrados.
 <table>
   <tr>
-    <td align="center"><strong>Tela de Login</strong><br><img src="prototipo/imagens/Tela_1.png" alt="Login" width="200"></td>
+    <td align="center"><strong>Tela de Login</strong><br><img src="imagens/Tela_1.png" alt="Login" width="200"></td>
   </tr>
 </table>
 
